@@ -185,7 +185,7 @@ It mounts the Pico W directly underneath the PCB, requiring precise soldering an
 A bulk pack of metric M2 machine screws is recommended.
 
 | Section | Part | Component Type | Qty | Purpose |
-|----------|------|----------------|------|----------|-------|
+|----------|------|----------------|------|----------|
 | Adapter Shell | M2 Machine Screw 4 mm | Commercial Product | 3 | Mounts mainboard, power board |
 | Adapter Shell | M2 Machine Screw 6 mm | Commercial Product | 4 | Mounts breakout, shell rear |
 | Adapter Shell | M2 Machine Screw 8 mm | Commercial Product | 2 | Mounts shell front |
@@ -196,7 +196,7 @@ A bulk pack of metric M2 machine screws is recommended.
 
 ## Firmware
 
-This project uses Santroller firmware by Sanjay900.
+This project uses Santroller firmware by sanjay900.
 All credit for firmware functionality belongs to the original author.
 
 For more information visit the Santroller website.
