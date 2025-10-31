@@ -1,0 +1,5 @@
+Part,Component Type,Part Code,Qty,Purpose,Notes
+1x2 Male Header,Through-hole,,1,Plug into Mainboard,For 7mm header insulator mount upside down
+On-Off Switch,Through-hole,AS11AH,1,Power switch,
+"AA Battery Terminal, Plate",Through-hole,595,2,Battery mount (plate),
+"AA Battery Terminal, Coil",Through-hole,628,2,Battery mount (coil),

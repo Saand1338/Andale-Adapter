@@ -1,0 +1,118 @@
+(footprint "MM_0926-1-15-20-75-14-11-0"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 1.274995 -2.549975 0)
+		(layer "F.SilkS")
+		(uuid "4cc61bf0-ef16-426b-b294-c5030f42cb9f")
+		(effects
+			(font
+				(size 1.003929 1.003929)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MM_0926-1-15-20-75-14-11-0"
+		(at 14.67951 2.55297 0)
+		(layer "F.Fab")
+		(uuid "4871c56e-cf7a-4cab-a72a-7d56d27f05d5")
+		(effects
+			(font
+				(size 1.005102 1.005102)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "896fb5af-4046-4d25-8139-999a93db4ce1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0ad6d850-0e8c-4957-84de-aabd2a7c24d1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "86835608-e3ea-458a-88c7-1072932d4eb9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 1.55 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "e9cd63d1-2c15-4cf9-b277-564053319e45")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.51 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "4596503e-8702-43a2-9d3c-b42872e701c0")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.08 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "ce04c48b-6ad6-4aa3-9814-967a303d4c54")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2.52 2.52)
+		(drill 1.88)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "f3080c71-fbec-436b-9cc0-cb6ecb13d2b9")
+	)
+	(model "${KIPRJMOD}/shapes3D/0926-1-15-20-75-14-11-0.step"
+		(offset
+			(xyz 0 0 -2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

@@ -1,0 +1,4 @@
+Part,Component Type,Part Code,Qty,Purpose,Notes
+Pi Pico W,Commercial Product,,1,Brains,Mounted underside; advanced soldering required
+USB A Male,Through-hole,CNCTech 1001-011-01101,1,USB stick plug,Trim mounting prongs under 1mm
+USB A Female,Through-hole,GCT USB1046,1,Auth plug,Trim mounting prongs under 1mm

@@ -1,0 +1,18 @@
+Part,Component Type,Part Code,Qty,Purpose,Notes
+Pi Pico W,Commercial Product,,1,Brains,Use Pico W for Bluetooth builds
+1x10 Low Profile Male Header (x2),Through-hole,,2,Mount for Pico W,
+1x05 Male Header,Through-hole,,1,Mount for Nunchuck Adapter,Requires double insulator height; custom modification
+Adafruit Nunchuck Adapter,Commercial Product,,1,Nunchuck connector integration,
+1x08 Low Profile Male Header,Through-hole,,1,Mount for ADXL345,
+Triple Axis SEN0032 ADXL345 Board,Commercial Product,,1,Accelerometer,Other ADXL345 compatibility unverified
+1x02 Low Profile Female Header,Through-hole,,1,Powerboard plug,
+1x04 Low Profile Female Header (x2),Through-hole,,2,Connector board plug,Insulator height must be 4mm or 7mm
+20V 1A Schottky Diode,SMD (SOT-123F),MBR120VLSFT1G,0-1,Power direction regulator,Required for battery or hardwired power
+LED,SMD (1208),QBLP653-S5,1,Low-voltage indicator,
+1.25 V Voltage Shunt,SMD (DBZ),TLV431DBZ,1,Voltage detection,Must use TLV variant (not TL431)
+3.57 kΩ Resistor,SMD (0805),RQ73C2A3K57BTD,1,Voltage divider,
+2.74 kΩ Resistor,SMD (0805),RQ73C2A2K74BTD,1,Voltage divider,
+221 Ω Resistor,SMD (0805),RQ73C2A221RBTD,1,LED current limiter,Value arbitrary; not optimized
+USB Male to USB-Micro Male adapter,Commercial Product,,1,Internal cable (optional),Unnecessary in hardwire config
+Adafruit USB C Downstream Breakout,Commercial Product,,1,USB-C connector breakout,
+"Silicone Ribbon Cable, 4x 28AWG",Commercial Product,,1,Internal wiring,

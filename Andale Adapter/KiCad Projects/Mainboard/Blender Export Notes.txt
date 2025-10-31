@@ -1,0 +1,3 @@
+Blender Export Notes
+
+Using Blender to convert board WRLs to OBJ for import into Fusion 360, on my system the axies need to be set to positive z and positive y to then import in the expected planar orientation.

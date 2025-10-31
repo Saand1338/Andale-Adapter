@@ -1,0 +1,6 @@
+Part,Component Type,Part Code,Qty,Purpose,Notes
+1x04 Male Header,Through-hole,,2,Plug into Mainboard,For 7mm insulator mount upside down
+1x04 Low Profile Male Header,Through-hole,,1,Mount for TinyBoost,
+USB Micro Female,Through-hole,Amphenol 10118194-0001LF,1,RGB integration (abuse of USB Micro),
+USB A Female,Through-hole,GCT USB1046,1,Controller auth (Wired),
+Adafruit MiniBoost 5V,Commercial Product,,1,Boost converter for RGB on battery,Optional for non-battery builds
